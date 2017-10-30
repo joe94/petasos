@@ -15,6 +15,8 @@ DAEMON_COREFILE_LIMIT=unlimited
 
 # Set limits here in addition to limits.conf
 ulimit -n 65535
+sysctl -w net.core.somaxconn=4096
+sysctl -w net.ipv4.tcp_max_syn_backlog=4096
 
 start() {
 	echo -n $"Starting petasos: "
