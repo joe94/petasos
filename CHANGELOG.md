@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [v0.2.0]
+- awesome new release
+- great feature!
+
+
+
 ## [v0.1.4]
 fixed build upload
 
@@ -20,7 +26,8 @@ Switching to new build process
 ### Added
 - Initial creation
 
-[Unreleased]: https://github.com/Comcast/petasos/compare/v0.1.4...HEAD
+[Unreleased]: https://github.com/Comcast/petasos/compare/v0.2.0...HEAD
+[v0.2.0]: https://github.com/Comcast/petasos/compare/v0.1.4...v0.2.0
 [v0.1.4]: https://github.com/Comcast/petasos/compare/v0.1.2...v0.1.4
 [v0.1.2]: https://github.com/Comcast/petasos/compare/0.1.1...v0.1.2
 [0.1.1]: https://github.com/Comcast/petasos/compare/0.0.0...0.1.1
